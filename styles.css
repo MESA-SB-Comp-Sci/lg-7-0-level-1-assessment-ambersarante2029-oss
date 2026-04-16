@@ -39,6 +39,8 @@ img {
     width: 800px;
     display: block;
     margin-bottom: 16px;
+    height: 50vh;
+    
 }
 
 .list-styles {
